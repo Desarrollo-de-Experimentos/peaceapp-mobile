@@ -1,7 +1,7 @@
 package com.innovatech.peaceapp
 
 object HttpUri {
-    const val url: String = "http://192.168.1.54:8080/"
+    const val url: String = "https://peaceapp-latest.onrender.com/"
 }
 
 // https://peaceapp-production.up.railway.app/swagger-ui/index.html
